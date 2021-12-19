@@ -1,0 +1,968 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (ripemetrics)" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/.virtualenvs/ripemetrics/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/ripemetrics/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/python_stubs/444597807" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (dfscrape)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/dfscrape/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dfscrape/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/1583777450" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (shopify)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/shopify/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/shopify/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/184029408" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (peoplefinder)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/peoplefinder/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/peoplefinder/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/python_stubs/-1161515765" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (foobar)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="$USER_HOME$/.virtualenvs/foobar/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/foobar/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/57408947" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (rentals)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/rentals/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/opt/python@3.8/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rentals/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/876501431" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (salesenablement)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/salesenablement/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.9/3.9.2_4/Frameworks/Python.framework/Versions/3.9/lib/python3.9" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.9/3.9.2_4/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/salesenablement/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/python_stubs/-1104984999" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.9" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (pubmed)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/pubmed/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pubmed/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/-432918447" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (electionassistant)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.11" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/electionassistant/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/electionassistant/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/electionassistant/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/electionassistant/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/-921145048" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (ml)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/ml/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ml/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ml/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ml/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ml/lib/python3.8/site-packages/aeosa" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1746895802" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pytorch_env)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.11" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/pytorch_env/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/pytorch_env/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/pytorch_env/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/pytorch_env/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/-1709098036" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (udemy_nlp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.11" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/udemy_nlp/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/udemy_nlp/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/udemy_nlp/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/udemy_nlp/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/188191608" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (ea36)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.13" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/ea36/bin/python3" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ea36/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ea36/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/ea36/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1158841241" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="openjdk-17" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;17.0.1&quot;" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.base" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.compiler" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.desktop" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.instrument" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.logging" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.management" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.naming" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.net.http" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.prefs" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.rmi" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.scripting" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.se" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.sql" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.xml" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.incubator.vector" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jpackage" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.management" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.net" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.random" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/shawnveltman/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (lumiio-nlp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.12" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/lumiio-nlp/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/lumiio-nlp/lib/python3.8" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/lumiio-nlp/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/lumiio-nlp/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/-1195980727" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.10 (crypto)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.7" />
+      <homePath value="$USER_HOME$/opt/miniconda3/envs/crypto/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/crypto/lib/python3.9" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/crypto/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/opt/miniconda3/envs/crypto/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/python_stubs/1782387800" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<templateSet group="Zen HTML">
+  <template name="form" value="&lt;form action=&quot;$VAR0$&quot; method=&quot;post&quot;&gt;&#10;$END$&#10;&lt;button type=&quot;submit&quot; class=&quot;saas-button&quot;&gt;Submit&lt;/button&gt;&#10;&lt;/form&gt;" description="&lt;form action=&quot;...&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="form:get" value="&lt;form action=&quot;$VAR0$&quot; method=&quot;get&quot;&gt;$END$&lt;/form&gt;" description="&lt;form action=&quot;...&quot; method=&quot;get&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="form:post" value="&lt;form action=&quot;$VAR0$&quot; method=&quot;post&quot;&gt;&#10;$END$&#10;&lt;button type=&quot;submit&quot; class=&quot;saas-button&quot;&gt;Submit&lt;/button&gt;&#10;&lt;/form&gt;" description="&lt;form action=&quot;...&quot; method=&quot;post&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

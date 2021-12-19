@@ -1,0 +1,67 @@
+<templateSet group="user defined">
+  <template name="fu" value="public function $name$($parameter$)&#10;{&#10;    $END$&#10;}" description="Creates public function" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parameter" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="te" value="/** @test */&#10;public function $name$()&#10;{&#10;    $END$&#10;}" description="Creates new test definition" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bl" value="@extends('app')&#10;@section('content')&#10;    $END$&#10;@stop&#10;@section('scripts')&#10;@stop" description="Creates new blade file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="setup" value="public function setUp(): void&#10;{&#10;    parent::setUp(); $END$&#10;}" description="Creates test setup method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tf" value="&lt;input type=&quot;text&quot;&#10;name=&quot;$NAME$&quot;&#10;placeholder=&quot;$PLACEHOLDER$&quot;&#10;value=&quot;&quot;&#10;&gt;" description="Text Field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PLACEHOLDER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="submit" value="&lt;button class=&quot;saas-button mt-4 ml-8&quot; type=&quot;submit&quot;&gt;Submit&lt;/button&gt;" description="Adds submit button" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="foreign" value="$table-&gt;foreign('$column$')-&gt;references('$id$')-&gt;on('$table$')-&gt;cascadeOnDelete();" description="Adds foreign key constraint" toReformat="false" toShortenFQNames="true">
+    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ta" value="&lt;table&gt;&#10;    &lt;thead&gt;&#10;        $END$&#10;    &lt;/thead&gt;&#10;    &lt;tbody&gt;&#10;        &#10;    &lt;/tbody&gt;&#10;&lt;/table&gt;" description="Adds new table" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ts" value="&lt;template&gt;&#10;    $END$&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;&#10;&lt;/script&gt;" description="Vue Template and Script tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="p" value="public $$$variable$;$END$" description="public" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="abr" value="Hi $END$ Abrahm!!!" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
