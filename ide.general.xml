@@ -3,4 +3,11 @@
     <option name="confirmExit" value="false" />
     <option name="searchInBackground" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
