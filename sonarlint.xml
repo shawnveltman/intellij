@@ -2,8 +2,9 @@
   <component name="SonarLintGlobalSettings">
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
-      <Rule active="false" key="php:S1142" />
       <Rule active="false" key="php:S1117" />
+      <Rule active="false" key="php:S1142" />
+      <Rule active="false" key="php:S5808" />
       <Rule active="false" key="php:S1871" />
       <Rule active="false" key="php:S1192" />
       <Rule active="false" key="php:S1448" />
