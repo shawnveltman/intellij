@@ -5,6 +5,7 @@
       <mapping pattern="Prospect" type="AUTO_DETECTED" />
       <mapping pattern="grotrax-grass" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".DS_touch" type="PLAIN_TEXT" />
       <mapping pattern=".DS_store" type="PLAIN_TEXT" />
