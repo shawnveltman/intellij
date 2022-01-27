@@ -224,6 +224,7 @@
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -249,6 +250,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta g" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="ServiceView.GroupByContributor" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -266,6 +268,10 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="TailwindAction">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -273,6 +279,7 @@
     <keyboard-shortcut first-keystroke="shift meta delete" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="UsageGrouping.UsageType" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
