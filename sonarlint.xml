@@ -4,8 +4,9 @@
     <rules>
       <Rule active="false" key="php:S3801" />
       <Rule active="false" key="php:S1117" />
-      <Rule active="false" key="php:S5808" />
       <Rule active="false" key="php:S1871" />
+      <Rule active="false" key="php:S5808" />
+      <Rule active="false" key="php:S107" />
       <Rule active="false" key="php:S1142" />
       <Rule active="false" key="php:S1192" />
       <Rule active="false" key="php:S1448" />
