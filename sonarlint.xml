@@ -1,11 +1,61 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="php:S107">
+          <value>
+            <Rule active="false" key="php:S107" />
+          </value>
+        </entry>
+        <entry key="php:S1117">
+          <value>
+            <Rule active="false" key="php:S1117" />
+          </value>
+        </entry>
+        <entry key="php:S112">
+          <value>
+            <Rule active="false" key="php:S112" />
+          </value>
+        </entry>
+        <entry key="php:S1142">
+          <value>
+            <Rule active="false" key="php:S1142" />
+          </value>
+        </entry>
+        <entry key="php:S1192">
+          <value>
+            <Rule active="false" key="php:S1192" />
+          </value>
+        </entry>
+        <entry key="php:S1448">
+          <value>
+            <Rule active="false" key="php:S1448" />
+          </value>
+        </entry>
+        <entry key="php:S1871">
+          <value>
+            <Rule active="false" key="php:S1871" />
+          </value>
+        </entry>
+        <entry key="php:S3801">
+          <value>
+            <Rule active="false" key="php:S3801" />
+          </value>
+        </entry>
+        <entry key="php:S5808">
+          <value>
+            <Rule active="false" key="php:S5808" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="php:S3801" />
       <Rule active="false" key="php:S1117" />
-      <Rule active="false" key="php:S1871" />
+      <Rule active="false" key="php:S112" />
       <Rule active="false" key="php:S5808" />
+      <Rule active="false" key="php:S1871" />
       <Rule active="false" key="php:S107" />
       <Rule active="false" key="php:S1142" />
       <Rule active="false" key="php:S1192" />
