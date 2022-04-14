@@ -18,7 +18,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="setup" value="public function setUp(): void&#10;{&#10;    parent::setUp(); $END$&#10;}" description="Creates test setup method" toReformat="false" toShortenFQNames="true">
+  <template name="setup" value="protected function setUp(): void&#10;{&#10;    parent::setUp(); $END$&#10;}" description="Creates test setup method" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
