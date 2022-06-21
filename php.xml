@@ -4,7 +4,7 @@
     <interpreters>
       <interpreter id="145466cf-4d19-4837-a429-94154296863a" name="PHP 7.4" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="e9d7af01-1950-472a-aac1-0fb181659947" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.34_2/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="7023ed78-3d75-4c68-9389-d0dd667ec866" name="PHP 8" home="/opt/homebrew/Cellar/php@8.0/8.0.14/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7023ed78-3d75-4c68-9389-d0dd667ec866" name="PHP 8" home="/opt/homebrew/Cellar/php@8.0/8.0.20/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -87,17 +87,13 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 8">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@8.0/8.0.14/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@8.0/8.0.14/bin/php" path_separator=":" version="8.0.14">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@8.0/8.0.20/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@8.0/8.0.20/bin/php" path_separator=":" version="8.0.20">
           <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-pcov.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-redis.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-xdebug.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@8.0/8.0.14/share/php@8.0/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@8.0/8.0.20/share/php@8.0/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.2">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -159,7 +155,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
