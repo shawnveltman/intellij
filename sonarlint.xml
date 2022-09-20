@@ -32,6 +32,11 @@
             <Rule active="false" key="php:S1192" />
           </value>
         </entry>
+        <entry key="php:S138">
+          <value>
+            <Rule active="false" key="php:S138" />
+          </value>
+        </entry>
         <entry key="php:S1448">
           <value>
             <Rule active="false" key="php:S1448" />
@@ -59,9 +64,10 @@
       <Rule active="false" key="php:S3801" />
       <Rule active="false" key="php:S1117" />
       <Rule active="false" key="php:S112" />
-      <Rule active="false" key="php:S5808" />
       <Rule active="false" key="php:S1871" />
+      <Rule active="false" key="php:S5808" />
       <Rule active="false" key="php:S107" />
+      <Rule active="false" key="php:S138" />
       <Rule active="false" key="php:S1155" />
       <Rule active="false" key="php:S1142" />
       <Rule active="false" key="php:S1192" />
