@@ -27,6 +27,16 @@
             <Rule active="false" key="php:S1155" />
           </value>
         </entry>
+        <entry key="php:S116">
+          <value>
+            <Rule active="false" key="php:S116" />
+          </value>
+        </entry>
+        <entry key="php:S117">
+          <value>
+            <Rule active="false" key="php:S117" />
+          </value>
+        </entry>
         <entry key="php:S1192">
           <value>
             <Rule active="false" key="php:S1192" />
@@ -40,6 +50,11 @@
         <entry key="php:S1448">
           <value>
             <Rule active="false" key="php:S1448" />
+          </value>
+        </entry>
+        <entry key="php:S1808">
+          <value>
+            <Rule active="false" key="php:S1808" />
           </value>
         </entry>
         <entry key="php:S1871">
@@ -61,16 +76,19 @@
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
-      <Rule active="false" key="php:S3801" />
-      <Rule active="false" key="php:S1117" />
       <Rule active="false" key="php:S112" />
-      <Rule active="false" key="php:S1871" />
-      <Rule active="false" key="php:S5808" />
+      <Rule active="false" key="php:S117" />
       <Rule active="false" key="php:S107" />
+      <Rule active="false" key="php:S1808" />
+      <Rule active="false" key="php:S116" />
       <Rule active="false" key="php:S138" />
-      <Rule active="false" key="php:S1155" />
       <Rule active="false" key="php:S1142" />
       <Rule active="false" key="php:S1192" />
+      <Rule active="false" key="php:S3801" />
+      <Rule active="false" key="php:S1117" />
+      <Rule active="false" key="php:S5808" />
+      <Rule active="false" key="php:S1871" />
+      <Rule active="false" key="php:S1155" />
       <Rule active="false" key="php:S1448" />
     </rules>
   </component>
