@@ -27,6 +27,11 @@
             <Rule active="false" key="php:S112" />
           </value>
         </entry>
+        <entry key="php:S113">
+          <value>
+            <Rule active="false" key="php:S113" />
+          </value>
+        </entry>
         <entry key="php:S1142">
           <value>
             <Rule active="false" key="php:S1142" />
@@ -86,6 +91,7 @@
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
+      <Rule active="false" key="php:S113" />
       <Rule active="false" key="php:S103" />
       <Rule active="false" key="php:S100" />
       <Rule active="false" key="php:S112" />
@@ -98,8 +104,8 @@
       <Rule active="false" key="php:S1192" />
       <Rule active="false" key="php:S3801" />
       <Rule active="false" key="php:S1117" />
-      <Rule active="false" key="php:S5808" />
       <Rule active="false" key="php:S1871" />
+      <Rule active="false" key="php:S5808" />
       <Rule active="false" key="php:S1155" />
       <Rule active="false" key="php:S1448" />
     </rules>
