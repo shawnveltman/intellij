@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Surround with '!empty'" />
     <ignoreAction name="PHP/Surround with 'isset'" />
+    <ignoreAction name="Other/Rollback changes in current line" />
   </component>
 </application>
