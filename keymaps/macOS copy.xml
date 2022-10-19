@@ -77,6 +77,7 @@
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="EditorDecreaseFontSizeGlobal" />
   <action id="EditorJoinLines" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
