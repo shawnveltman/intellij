@@ -1,16 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="grotrax-grass" type="AUTO_DETECTED" />
       <mapping pattern="Prospect" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".DS_touch" type="PLAIN_TEXT" />
-      <mapping pattern=".DS_store" type="PLAIN_TEXT" />
       <mapping pattern=".DS_ignore" type="PLAIN_TEXT" />
-      <mapping pattern="30," type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".phpunit.result.cache" type="PLAIN_TEXT" />
+      <mapping pattern="30," type="PLAIN_TEXT" />
+      <mapping pattern=".DS_store" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
