@@ -156,6 +156,7 @@
   </action>
   <action id="GotoRow" />
   <action id="GotoSuperMethod" />
+  <action id="GotoTest" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="meta u" />
@@ -252,6 +253,7 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="ServiceView.GroupByContributor" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
