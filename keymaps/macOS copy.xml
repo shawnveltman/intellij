@@ -115,6 +115,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta add" />
@@ -130,6 +133,10 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="meta alt m" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -278,6 +285,7 @@
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="shift meta delete" />
     <keyboard-shortcut first-keystroke="meta j" />
