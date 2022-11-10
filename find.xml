@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/app/Http/Livewire/LawnSignReportsComponent.php'" />
-    <option name="defaultScopeName" value="File '…/app/Http/Livewire/LawnSignReportsComponent.php'" />
-    <option name="SEARCH_SCOPE" value="File '…/app/Http/Livewire/LawnSignReportsComponent.php'" />
+    <option name="customScope" value="Directory '…/app/_election/ClientDataExport'" />
+    <option name="defaultScopeName" value="Directory '…/app/_election/ClientDataExport'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/app/_election/ClientDataExport'" />
   </component>
 </application>
