@@ -289,6 +289,7 @@
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="shift meta delete" />
     <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="UsageGrouping.UsageType" />
   <action id="Vcs.EditSource">
